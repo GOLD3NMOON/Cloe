@@ -14,10 +14,6 @@
 
 # Cloe
 
-<p align="center">
-  <img src="cloe_logo.png" alt="Cloe Bot" width="200">
-</p>
-
 Cloe é um simples bot do Discord em constante desenvolvimento, feito em Python.
 
 ## Como instalar
@@ -85,6 +81,3 @@ Cloe foi desenvolvida por Gold3nmon.
 ---
 
 Sinta-se à vontade para melhorar e adicionar mais recursos ao bot Cloe. Divirta-se desenvolvendo!
-```
-
-Certifique-se de substituir `cloe_logo.png` pela imagem do banner de anime com o nome "Cloe" que você deseja usar.
