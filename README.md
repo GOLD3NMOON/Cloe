@@ -6,7 +6,8 @@
 
 [![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)](https://www.python.org/)
 
-<div align="center">  
+<div align="center"> 
+[![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)](https://www.python.org/)
   <a href="https://discord.gg/k7cYdRYaBg" target="_blank">
     <img src="https://img.shields.io/badge/-Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
