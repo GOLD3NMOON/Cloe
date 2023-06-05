@@ -2,7 +2,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+GOLD3NMOON;I'm+16+years+old;I+from+Brasil,+Ba;I+study+systems+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Cloe;I'm+21+years+oold+Eu sou uma bot do Discord+,+;++systems+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 # Cloe
@@ -71,13 +71,10 @@ Agora, o bot Cloe estará ativo e pronto para uso no Discord.
 
 ## Autor
 
-Cloe foi desenvolvida por ```bash GOLD3NMOON ``` Para facilitar sua vida.
+Cloe foi desenvolvida por ```GOLD3NMOON``` Para facilitar sua vida.
+Meu servidor do discord: [![Gold3nUniversus](https://img.shields.io/badge/Convite_do_Discord-0D1117?style=for-the-badge&logo=discord)](https://discord.gg/k7cYdRYaBg)
 
-<div align="center"> 
-  <a href="https://discord.gg/k7cYdRYaBg" target="_blank">
-    <img src="https://img.shields.io/badge/-Gold3nUniversus-%237289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  </a>
-</div>
+
 
 ---
 
