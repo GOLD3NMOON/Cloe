@@ -72,7 +72,7 @@ Agora, o bot Cloe estará ativo e pronto para uso no Discord.
 ## Autor
 
 Cloe foi desenvolvida por ```GOLD3NMOON``` Para facilitar sua vida.
-Meu servidor do discord: [![Gold3nUniversus](https://img.shields.io/badge/Convite_do_Discord-0D1117?style=for-the-badge&logo=discord)](https://discord.gg/k7cYdRYaBg)
+Meu servidor do discord: [![Gold3nUniversus](https://img.shields.io/badge/Gold3nUniversus-0D1117?style=for-the-badge&logo=discord)](https://discord.gg/k7cYdRYaBg)
 
 
 
