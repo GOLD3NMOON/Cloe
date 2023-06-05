@@ -10,7 +10,7 @@
 
 Cloe é um simples bot do Discord em constante desenvolvimento, feito em
 [![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)](https://www.python.org/)
-[![PyCord](https://img.shields.io/badge/Discord.py-2-.-0-0-blue.svg?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Pycord-Development/pycord)
+[![Discord.py](https://img.shields.io/badge/Discord.py-2-0-0-blue.svg?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Pycord-Development/pycord)
 
  
 
