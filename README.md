@@ -72,10 +72,11 @@ Agora, o bot Cloe estará ativo e pronto para uso no Discord.
 
 ## Autor
 
-Cloe foi desenvolvida por ```GOLD3NMOON``` Para facilitar sua vida.
+Cloe foi desenvolvida por GOLD3NMOON Para facilitar sua vida.
 Meu servidor do discord:
 
-[![Gold3nUniversus](https://img.shields.io/badge/Gold3nUniversus-0D1117?style=for-the-badge&logo=discord)](https://discord.gg/k7cYdRYaBg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=https://discord.gg/k7cYdRYaBg:%29)](https://discord.gg/k7cYdRYaBg)
+
 
 
 
