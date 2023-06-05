@@ -72,6 +72,12 @@ Agora, o bot Cloe estará ativo e pronto para uso no Discord.
 ## Autor
 
 Cloe foi desenvolvida por ```bash GOLD3NMOON ``` Para facilitar sua vida.
+#Gold3universus
+<div align="center"> 
+  <a href="https://discord.gg/k7cYdRYaBg" target="_blank">
+    <img src="https://img.shields.io/badge/-Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+</div>
 
 ---
 
