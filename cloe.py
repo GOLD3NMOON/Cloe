@@ -1,21 +1,22 @@
 import discord
-import json
-from discord.ext.commands import Bot 
-import os
+from discord.ext import commands
 
-with open("config.json") as f:
-  configData = json.load(f)
 
-client = Bot(command_prefix="!", intents=discord.Intents.all())
+class OnReady(commands.Cog):
+    def __init__(self, bot: commands.Bot) -> None:
+        self.bot = bot
+        super().__init__()
 
-# Carregar os comandos
-for filename in os.listdir("./commands"):
-  if filename.endswith(".py") and not filename.startswith("__"):
-    client.load_extension("commands.{0}".format(filename[:-3]))
+    @commands.Cog.listener()
+    async def on_ready(self):
+        print("┌─━━━━━━━━━━━━━━━━┐")
+        print("│ Bot conectado e pronto para uso │")
+        print("├─━━━━━━━━━━━━━━━━┤")
+        print(f"│ Nome do bot: {self.bot.user.name} │")
+        print(f"│ ID do bot: {self.bot.user.id} │")
+        print(f"│ Quantidade de servidores: {len(self.bot.guilds)} │")
+        print("└─━━━━━━━━━━━━━━━━┘")
 
-# Carregar os eventos
-for filename in os.listdir("./events"):
-  if filename.endswith(".py") and not filename.startswith("__"):
-    client.load_extension("events.{0}".format(filename[:-3]))
 
-client.run(configData["token"])
+def setup(bot: commands.Bot):
+    bot.add_cog(OnReady(bot))
