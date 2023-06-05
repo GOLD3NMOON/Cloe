@@ -5,12 +5,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+GOLD3NMOON;I'm+16+years+old;I+from+Brasil,+Ba;I+study+systems+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
-<div align="center"> 
-  <a href="https://discord.gg/k7cYdRYaBg" target="_blank">
-    <img src="https://img.shields.io/badge/-Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  </a>
-</div>
-
 # Cloe
 
 Cloe é um simples bot do Discord em constante desenvolvimento, feito em [![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)](https://www.python.org/) [![PyCord](https://img.shields.io/badge/PyCord-1.2.0-blue.svg?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Pycord-Development/pycord)
