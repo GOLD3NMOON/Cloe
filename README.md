@@ -75,7 +75,7 @@ Cloe foi desenvolvida por ```bash GOLD3NMOON ``` Para facilitar sua vida.
 
 <div align="center"> 
   <a href="https://discord.gg/k7cYdRYaBg" target="_blank">
-    <img src="https://img.shields.io/badge/-Discord-%237289DA?style=for-the-badge&logo=Gold3nUniversus&logoColor=white" alt="Discord">
+    <img src="https://img.shields.io/badge/-Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
 </div>
 
