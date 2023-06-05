@@ -75,7 +75,7 @@ Agora, o bot Cloe estará ativo e pronto para uso no Discord.
 
 ## Autor
 
-Cloe foi desenvolvida por Gold3nmon.
+Cloe foi desenvolvida por ```bash GOLD3NMOON ``` Para facilitar sua vida.
 
 ---
 
