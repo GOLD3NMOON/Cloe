@@ -1,3 +1,17 @@
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+</div>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+GOLD3NMOON;I'm+16+years+old;I+from+Brasil,+Ba;I+study+systems+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+[![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)](https://www.python.org/)
+
+<div align="center">  
+  <a href="https://discord.gg/k7cYdRYaBg" target="_blank">
+    <img src="https://img.shields.io/badge/-Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+</div>
+
 # Cloe
 
 <p align="center">
@@ -71,3 +85,6 @@ Cloe foi desenvolvida por Gold3nmon.
 ---
 
 Sinta-se à vontade para melhorar e adicionar mais recursos ao bot Cloe. Divirta-se desenvolvendo!
+```
+
+Certifique-se de substituir `cloe_logo.png` pela imagem do banner de anime com o nome "Cloe" que você deseja usar.
